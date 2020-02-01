@@ -8,18 +8,22 @@ I resolved this problem with: C, C#, JS and TS.
 
 just to practice and improve a little bit each day.
 
-##### Running
+##### Running:
 
 To run the C# program you will need the dotnet sdk installed, then go to the folder ./src/csharp and run:
+
 `dotnet run`
 
 To run the C program you will need the C compiler (gcc) installed, then run:
+
 `gcc ./src/main.c -o ./build/test; ./build/test`
 
 To run the JavaScript program you will need the NodeJS installed, then run:
+
 `node ./src`
 
 To run the TypeScript program you will need the TS-Node/NPM and the typescript module, then run:
+
 `ts-node ./src/index.ts`
 
 ---
