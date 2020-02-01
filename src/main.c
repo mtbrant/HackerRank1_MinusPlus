@@ -2,8 +2,9 @@
 
 int main() {
  
-    int integers[10]  = {1, -2, -6,4, -5, -9, 0, 1, 6};
-    int numberOfZeros = 0, 
+    int integers[10]  = { 1, -2, -6, 4, -5, -9, 0, 1, 6, 6 };
+    i
+    nt numberOfZeros = 0, 
         numberOfPositives = 0, 
         numberOfNegatives = 0;
 
