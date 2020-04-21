@@ -22,8 +22,8 @@ namespace csharp
             }
 
             Console.WriteLine($"Positives: {Positives} -> { (decimal)Positives/numbers.Length }");
-            Console.WriteLine($"Positives: {Negatives} -> { (decimal)Negatives/numbers.Length }");
-            Console.WriteLine($"Positives: {Zeros} -> { (decimal)Zeros/numbers.Length }");
+            Console.WriteLine($"Negatives: {Negatives} -> { (decimal)Negatives/numbers.Length }");
+            Console.WriteLine($"Zeros: {Zeros} -> { (decimal)Zeros/numbers.Length }");
         }
     }
 }
